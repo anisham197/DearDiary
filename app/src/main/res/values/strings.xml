@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iCare</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text">You, Neil Patrick Harris, are born in Albuquerque, New Mexico, on June 15, 1973, at what you’re pretty sure is St. Joseph’s Hospital, although it’s hard to be certain as the whole experience leaves you a little blurry.
+The first person you encounter is, not surprisingly, your mother, Sheila Scott Harris. As the years go by you will come to learn she is a truly remarkable woman filled with love, kindness, fragility, selflessness, intelligence, wisdom, and humor. The kind of mom who will talk to you like a person and treat you with respect from the age of two. The kind of mom who will hold you in her lap for an entire four-hour car ride, lightly scratching your back. The kind of mom who teaches you the rules of Twenty Questions and then lets you guess the “right” answer even though it wasn’t what she was thinking, but does it subtly enough to keep you from realizing that’s what she’s doing. The kind of mom traditional enough to sing in the Episcopal church choir every week but hip enough to improvise a horrific death for a character in the bedtime story she’s reading you just to make sure you’re paying attention. The kind of mom who sews your Halloween costumes and plays the flute and loves to laugh and encourages you to pursue your passions and at one point trains to become a Jazzercise instructor and at another decides to go back to law school in her thirties and commute four hours each way every weekend for three solid years to make sure she spends enough time with you.</string>
+</resources>

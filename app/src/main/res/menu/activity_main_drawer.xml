@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_note"
+            android:title="Today's Note" />
+        <item
+            android:id="@+id/nav_prev_entry"
+            android:title="Previous Entries" />
+        <item
+            android:id="@+id/nav_insights"
+            android:title="Insights" />
+        <item
+            android:id="@+id/nav_doc_remark"
+            android:title="Doctors Remarks" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout" />
+    </group>
+
+
+</menu>
